@@ -1,5 +1,4 @@
 
-
 .frontpage {
 }
 
@@ -295,7 +294,7 @@
 
 
 .fpm-cover2-bg {
-    background-image: url(https://raw.githubusercontent.com/spectraldragon8/bandit-custom-css/refs/heads/main/illust_125676108_20260120_225512.jpg);
+    background-image: url(https://raw.githubusercontent.com/spectraldragon8/bandit-custom-css/refs/heads/main/1000001487_1.jpg);
     /* background-image: url(/assets/main/city4.png); */
     /* background-image: url(/assets/main/city5.png); */
     background-size: cover;
@@ -333,7 +332,7 @@
     bottom: 0;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(/assets/main/charasuper.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png);
     image-rendering: pixelated;
     background-position: bottom center;
     max-width: 1000px;
