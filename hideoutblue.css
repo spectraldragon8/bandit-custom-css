@@ -1,6 +1,6 @@
 
 body {
-    background-image: url(https://raw.githubusercontent.com/spectraldragon8/bandit-custom-css/refs/heads/main/bluewave.png);
+    background-image: url(https://raw.githubusercontent.com/spectraldragon8/bandit-custom-css/refs/heads/main/cubic.png);
     background-attachment: fixed;
     animation: bgScroll 12s linear infinite;
     will-change: background-position;
