@@ -630,7 +630,7 @@
     max-height: 300px;
     top: calc(50vh - 180px);
     margin: 0% auto;
-    background-image: url(/assets/main/wave4.png);
+    background-image: url(https://raw.githubusercontent.com/spectraldragon8/bandit-custom-css/refs/heads/main/bluewave.png);
     background-attachment: fixed;
     /* overflow: hidden; */
     /* box-shadow: 0 0 10px 2px #ffcbcb; */
